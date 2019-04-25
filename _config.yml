@@ -1,10 +1,10 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Xavier Fischer's Blog
+tagline: Xavier Fischer's Blog
+email: xavier@fischer.ninja
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+  All I want to share in the .Net stack, creative coding (OpenFrameworks, Unity) and music (Ableton Live)
+baseurl: "/"
 url: ""
 permalink: pretty
 
@@ -49,7 +49,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Xavier Fischer"
       layout: post
       image: https://via.placeholder.com/800x600
       show_sidebar: false
